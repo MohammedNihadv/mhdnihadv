@@ -44,50 +44,6 @@ BUILD STYLE  : Practical, scalable, security-aware
 GOAL         : Create software that works beyond the demo stage
 ```
 
-## TECH STACK
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart,html,css,php,go,rust,kotlin,swift" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux,materialui,sass,html,css" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,php,laravel" />
-</p>
-
-### Database and Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase,redis,prisma,aws,gcp,azure,vercel,netlify,cloudflare" />
-</p>
-
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
-</p>
-
-### Tools and Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,powershell,docker,postman,figma,npm,pnpm,yarn" />
-</p>
-
-### Security and Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,debian,docker,nginx,cloudflare,bash" />
-</p>
-
 ## ACTIVITY STATUS
 
 <table>
